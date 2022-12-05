@@ -14,28 +14,22 @@ Ejecutar con Terminal: "npm start"
 ----------------------------------------------------------------------------------------------------------------------------------
 ADMIN - PRIVADO:
 ----------------------------------------------------------------------------------------------------------------------------------
-Admin: -> Privado.
-USERS: "Admin",
-EMAIL: "admin123@gmail.com"
-PASS: ("admin" -> ACTUALMENTE)
+Admin: -> Privado. <br />
+USERS: "Admin" <br />
+EMAIL: "admin123@gmail.com" <br />
+PASS: ("admin" -> ACTUALMENTE) <br />
 
-Clientes: -> Público.
-USERS: bebitoperez123
-EMAIL: bebitoperez123@gmail.com
-PASS: bebito123 -> (bebitoperez123 - NUEVA)
+Clientes: -> Público. <br />
+USERS: bebitoperez123 <br />
+EMAIL: bebitoperez123@gmail.com <br />
+PASS: bebito123 -> (bebitoperez123 - NUEVA) <br />
 
-clientes: -> Público.
-USERS: marianatamayo123
-EMAIL: marianatamayo123@gmail.com
-PASS: mariana123 -> (marianatamayo123 - NUEVA)
+clientes: -> Público. <br />
+USERS: marianatamayo123 <br />
+EMAIL: marianatamayo123@gmail.com <br />
+PASS: mariana123 -> (marianatamayo123 - NUEVA) <br />
 
 Cuando haya arrancado asegurese que indique la url y el puerto.
-----------------------------------------------------------------------------------------------------------------------------------
-Luego navegue en la plataforma.
-
-Feliz Revisión 😎🤞.
-
-Creditos: Este proyecto lo desarrollo Adrián Páez.
 ----------------------------------------------------------------------------------------------------------------------------------
 ## Guiones disponibles
 
@@ -52,3 +46,10 @@ También puede ver errores de pelusa en la consola.
 ### `MI INFORMACIÓN`:
 
 Puedes aprender más en el: [https://apr1991lino.vercel.app/)
+----------------------------------------------------------------------------------------------------------------------------------
+Luego navegue en la plataforma.
+
+Feliz Revisión 😎🤞.
+
+Creditos: Este proyecto lo desarrollo Adrián Páez.
+----------------------------------------------------------------------------------------------------------------------------------

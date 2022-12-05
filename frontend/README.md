@@ -38,12 +38,6 @@ PASS: mariana123 -> (marianatamayo123 - NUEVA) <br />
 
 Cuando haya arrancado asegurese que indique la url y el puerto.
 ----------------------------------------------------------------------------------------------------------------------------------
-Luego navegue en la plataforma.
-
-Feliz Revisión 😎🤞.
-
-Creditos: Este proyecto lo desarrollo Adrián Páez.
-----------------------------------------------------------------------------------------------------------------------------------
 ## Guiones disponibles
 
 En el directorio del proyecto, puede ejecutar:
@@ -59,3 +53,10 @@ También puede ver errores de pelusa en la consola.
 ### `MI INFORMACIÓN`:
 
 Puedes aprender más en el: [https://apr1991lino.vercel.app/)
+----------------------------------------------------------------------------------------------------------------------------------
+Luego navegue en la plataforma.
+
+Feliz Revisión 😎🤞.
+
+Creditos: Este proyecto lo desarrollo Adrián Páez.
+----------------------------------------------------------------------------------------------------------------------------------
