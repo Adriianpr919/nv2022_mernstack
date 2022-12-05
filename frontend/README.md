@@ -20,21 +20,21 @@ USANDO LA BASE DE DATOS MONGODB COMPASS: -> ACTIVAR EL SERVIDOR CON LINK: http:/
 CONOCIDO A "CRUD" - POSTMAN.
 ![POSTMAN](https://user-images.githubusercontent.com/54821048/205748424-a7c83222-1a07-4eca-8185-a9a90726909d.png)
 ----------------------------------------------------------------------------------------------------------------------------------
-http://localhost:5000/api/seed
-http://localhost:5000/api/users/login
-http://localhost:5000/api/users/register
-http://localhost:5000/api/users/all
-http://localhost:5000/api/users/_id
+http://localhost:5000/api/seed <br />
+http://localhost:5000/api/users/login <br />
+http://localhost:5000/api/users/register <br />
+http://localhost:5000/api/users/all <br />
+http://localhost:5000/api/users/_id <br />
 
-Clientes: -> Público.
-USERS: bebitoperez123
-EMAIL: bebitoperez123@gmail.com
-PASS: bebito123 -> (bebitoperez123 - NUEVA)
+Clientes: -> Público. <br />
+USERS: bebitoperez123 <br />
+EMAIL: bebitoperez123@gmail.com <br />
+PASS: bebito123 -> (bebitoperez123 - NUEVA) <br />
 
-clientes: -> Público.
-USERS: marianatamayo123
-EMAIL: marianatamayo123@gmail.com
-PASS: mariana123 -> (marianatamayo123 - NUEVA)
+clientes: -> Público. <br />
+USERS: marianatamayo123 <br />
+EMAIL: marianatamayo123@gmail.com <br />
+PASS: mariana123 -> (marianatamayo123 - NUEVA) <br />
 
 Cuando haya arrancado asegurese que indique la url y el puerto.
 ----------------------------------------------------------------------------------------------------------------------------------
