@@ -28,7 +28,7 @@ const CartItems = () => {
     }
 
     const subTotal = cartItems.reduce((a, c) => a + c.price * c.quantity, 0);
-    const taxPrice = (0.20 * subTotal); //20% tax in Colombia.
+    const taxPrice = (0.19 * subTotal); //19% tax in Colombia.
     const totalPrice = taxPrice + subTotal;
 
 
