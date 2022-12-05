@@ -15,10 +15,10 @@ Ejecutar con Terminal: "npm start" -> Y LUEGO ABRE NAVEGADOR ACTIVAR EL SERVIDOR
 FRONT-END:
 ----------------------------------------------------------------------------------------------------------------------------------
 USANDO LA BASE DE DATOS MONGODB COMPASS: -> ACTIVAR EL SERVIDOR CON LINK: http://localhost:5000/api/seed
-MONGOBD.png
+![MONGOBD](https://user-images.githubusercontent.com/54821048/205748463-b02e9153-751b-4f6d-8230-21fe4a9efa16.png)
 
 CONOCIDO A "CRUD" - POSTMAN.
-POSTMAN.png
+![POSTMAN](https://user-images.githubusercontent.com/54821048/205748424-a7c83222-1a07-4eca-8185-a9a90726909d.png)
 ----------------------------------------------------------------------------------------------------------------------------------
 http://localhost:5000/api/seed
 http://localhost:5000/api/users/login
